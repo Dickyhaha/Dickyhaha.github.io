@@ -1,4 +1,5 @@
-baseurl: /
+url: "http://mtchiu.me/"
+baseurl: ""
 
 # Site settings
 title: MangTik Chiu
