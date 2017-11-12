@@ -1,0 +1,14 @@
+---
+title: CloudCrime
+subtitle: Cloud Computing
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: cloudcrime.jpg
+thumbnail: cloudcrime.jpg
+alt: image-alt
+project-date: Apr-May 2014
+category: Cloud Computing
+description: Data visualization of criminal activities in Detriot. Used distributed K-means to cluster high risk areas. Protential applications include citizen alert and tourist feedback.
+
+---

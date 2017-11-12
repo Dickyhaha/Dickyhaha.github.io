@@ -1,0 +1,14 @@
+---
+title: myOpenGL
+subtitle: Computer Graphics
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: myopengl.jpg
+thumbnail: myopengl.jpg
+alt: image-alt
+project-date: Sept-Dec 2016
+category: Computer Graphics
+description: Raw implementation of openGL functions. Includes model trendering, spatial transformation, curve drawing, lighting, etc.
+
+---

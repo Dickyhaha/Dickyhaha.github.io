@@ -1,0 +1,13 @@
+---
+title: Santander Product Recommendation
+subtitle: Machine Learning
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: santander.jpg
+thumbnail: santander.jpg
+alt: image-alt
+project-date: Sept-Dec 2016
+category: Machine Learning
+description: Implmentation of several machine learning models, including MLP, SVM, Naive Bayes and SVD, to recommend Santander products to existing customers. 
+---

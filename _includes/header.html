@@ -1,0 +1,64 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#services">Experiences</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#portfolio">Projects</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#about">About</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="cv.pdf" target="_blank">Resume</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-lead-in">Hey there! I'm</div>
+            <div class="intro-heading">MangTik Chiu</div>
+            <p>I am a senior CS student at <a href="http://www.cse.ust.hk/">HKUST</a>. I am interested in everything and is always looking for opportunities to learn more. I am particularly interseted in Machine Learning and Computer Vision, as well as their applications in Ubiquitous Computing and Ambient Intelligence.</p>
+            <ul class="list-inline social-buttons">
+                {% for network in site.social %}
+                <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</header>
+<!--
+    {% for page in site.pages %}
+    {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+    {% endfor %}
+-->
+

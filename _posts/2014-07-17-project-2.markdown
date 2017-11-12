@@ -1,0 +1,13 @@
+---
+title: ScholarsNet
+subtitle: Big Data Mining and Management
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: scholarsnet.jpg
+thumbnail: scholarsnet.jpg
+alt: image-alt
+project-date: Feb-May 2017
+category: Big Data Mining and Management
+description: Construct a Google Scholar like paper search engine with author index. Using techniques such as entity resolution, and data fusion to resolve conflicts, which is common when mining large amount of data from multiple sources.
+---
