@@ -9,6 +9,6 @@ thumbnail: cloudcrime.jpg
 alt: image-alt
 project-date: Apr-May 2014
 category: Cloud Computing
-description: Data visualization of criminal activities in Detriot. Used distributed K-means to cluster high risk areas. Protential applications include citizen alert and tourist feedback.
+description: Data visualization of criminal activities in Detroit. Used distributed K-means to cluster high risk areas. Potential applications include citizen alert and tourist feedback.
 
 ---

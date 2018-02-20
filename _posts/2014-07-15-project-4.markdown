@@ -9,6 +9,6 @@ thumbnail: myopengl.jpg
 alt: image-alt
 project-date: Sept-Dec 2016
 category: Computer Graphics
-description: Raw implementation of openGL functions. Includes model trendering, spatial transformation, curve drawing, lighting, etc.
+description: Raw implementation of openGL functions. Includes model rendering, spatial transformation, curve drawing, lighting, etc.
 
 ---
